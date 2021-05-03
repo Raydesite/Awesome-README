@@ -17,6 +17,7 @@ Make your awesome readme and share with others in this repository.
 - Add your Occupation.
 - Add something interesting about you.
 - Add you Twitter.
+- Save the readme like this "yourname.md".
 
 **Let's go!**
 
