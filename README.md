@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://twitter.com/Raydesite"><img src="https://img.shields.io/twitter/follow/raydesite?label=Follow&style=social"></a>
 <a href="https://github.com/Raydesite/Awesome-README/stargazers"><img src="https://img.shields.io/github/stars/raydesite/Awesome-README?style=social"></a>
-<a href="https://github.com/Raydesite/Awesome-README/network/members"><img src="https://img.shields.io/github/forks/raydesite/Awesome-REAMDE?style=social"></a>
+<a href="https://github.com/Raydesite/Awesome-README/network/members"><img src="https://img.shields.io/github/forks/raydesite/Awesome-README?style=social"></a>
 </p></br>
 
     
