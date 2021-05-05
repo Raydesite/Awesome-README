@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on [YositecreoVenezuela](https://github.com/YoSiTeCreoVenezuela)
 
-- 🤝 I’m looking for help with [Raydesite](https://github.com/Raydesite)
+- 🤝 I looking for helping with [Raydesite](https://github.com/Raydesite)
 
 - 💬 Ask me about **CSS, React and TailwindCSS**
 
 - 📫 How to reach me **danielandresquiaropinto@gmail.com**
 
-- ⚡ Fun fact **I think develop web games**
+- ⚡ Fun fact **I think about developing web games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
