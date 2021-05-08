@@ -32,7 +32,7 @@ Awesome companies:
 
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianahernandez&show_icons=true&count_private=true&theme=tokyonight&title_color=f2f2f2&icon_color=ecd748&text_color=b9a0da)
 
-## Porfolio
+## Portfolio
 View my portfolio, I share my lasts projects, blog posts and more.
 :point_right: - [Go to portfolio](https://ianahernandez.tech)
 
